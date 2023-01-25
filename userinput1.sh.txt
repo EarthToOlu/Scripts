@@ -3,4 +3,4 @@ echo Hello, Please enter your name.
 read varname
 echo Hello $varname
 
-#Name would be userinput1.sh on linux with permission 755
+#Name would be userinput1.sh on linux with permission 755. Placing scripts in a bin directore would be good practice.
